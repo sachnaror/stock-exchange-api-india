@@ -1,7 +1,7 @@
 
 # Stock Market APIs - India 🌟
 
-**An NPM package to fetch data from the Bombay Stock Exchange (BSE) and National Stock Exchange (NSE) in India.**
+**Fetch data from the Bombay Stock Exchange (BSE) and National Stock Exchange (NSE) in India.**
 Access all the stock market data you need with simple APIs! 🚀
 
 ---
