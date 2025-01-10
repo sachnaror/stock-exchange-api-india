@@ -56,7 +56,7 @@ Access all the stock market data you need with simple APIs! 🚀
 Identify where your app lives. For example: `/home/user/your_app`.
 
 ### 2️⃣ Install Node.js
-Download Node.js from [Node.js Official Website](http://nodejs.org/) and install it.
+Do yo ureally want me to tell you this ? Seriously ?
 
 ### 3️⃣ Install Express
 Navigate to your app directory and run:
@@ -74,7 +74,7 @@ Now you can access the APIs at `http://localhost:3000`! 🎉
 ---
 
 ## 🚨 Important Notes
-- API calls from browsers may fail due to 'OPTIONS' preflight requests or headers. We recommend making calls from your server.
+- API calls from browsers may fail due to 'OPTIONS' preflight requests or headers. I recommend making calls from your server.
 - For best results, use these APIs within your application or backend services.
 
 ---

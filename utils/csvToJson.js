@@ -23,7 +23,7 @@ function csvTojs(csv, headersValues) {
     }
 
     while (idx < row.length) {
-      /* if we meet a double quote we skip until the next one */
+      /* if I meet a double quote I skip until the next one */
       var c = row[idx];
 
       if (c === '"') {
@@ -33,7 +33,7 @@ function csvTojs(csv, headersValues) {
       }
 
       if (c === ',' || /* handle end of line with no comma */ idx === row.length - 1) {
-        /* we've got a value */
+        /* I've got a value */
         var value = row.substr(startValueIdx, idx - startValueIdx + 1).trim();
 
         /* skip first double quote */
