@@ -2,6 +2,7 @@
 # Stock Market APIs - India 🌟
 
 **Fetch data from the Bombay Stock Exchange (BSE) and National Stock Exchange (NSE) in India.**
+
 Access all the stock market data you need with simple APIs! 🚀
 
 ---
@@ -19,8 +20,8 @@ Access all the stock market data you need with simple APIs! 🚀
   ```
 - 🏢 **Company Quotes**: Fetch quotation data for individual companies or multiple companies.
   ```
-  http://localhost:3000/nse/get_quote_info?companyName=TCS
-  http://localhost:3000/nse/get_multiple_quote_info?companyNames=TCS,WIPRO,AND_MORE
+  http://localhost:3000/nse/get_quote_info?companyName=RIL
+  http://localhost:3000/nse/get_multiple_quote_info?companyNames=RIL,INFY,AND_MORE
   ```
 - 💹 **Top Gainers/Losers**: Retrieve the top 10 gainers or losers.
   ```
